@@ -61,3 +61,4 @@ def Bagi(desimal) :
 # I n p u t 
 desimal = int(input("Masukkan Nilai Desimal : "))
 Bagi(desimal)
+# Aziz push 
